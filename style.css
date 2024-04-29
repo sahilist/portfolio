@@ -1,0 +1,76 @@
+.bg {
+  background-color: #f1f1f3;
+}
+
+.bgs {
+  background-color: #ededef;
+}
+
+.oswald-bold {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.oswald-light {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: smaller;
+}
+
+.cap {
+  text-transform: uppercase;
+}
+
+.hr-pad {
+  width: 30px;
+  height: 2.4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -35px;
+}
+
+.hr-padtable1 {
+  width: 60px;
+  height: 4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -31px;
+}
+.hr-padtable2 {
+  width: 40px;
+  height: 4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -31px;
+}
+.hr-padtable3 {
+  width: 15px;
+  height: 4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -31px;
+}
+.hr-padtable4 {
+  width: 80px;
+  height: 4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -31px;
+}
+.hr-padtable5 {
+  width: 50px;
+  height: 4px;
+  background-color: #0283c6;
+  display: inline-block;
+  position: relative;
+  top: -31px;
+}
